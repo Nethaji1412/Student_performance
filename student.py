@@ -5,7 +5,7 @@ import pandas as pd
 # Sample Data Creation
 # ----------------------
 data = {
-    "Student Name": ["Vyas chandrasekar", "Joeshika", "Aravind", "Susweatha", "Taran", "Sanjay"],
+    "Student Name": ["Vyas chandrasekar", "Joshika", "Aravind", "Susweatha", "Taran", "Sanjay"],
     "Course": ["AI & ML", "Data Science", "Data Analytics", "Data Analytics", "Data Science", "Data Analytics"],
     "Mode": ["OFFLINE", "OFFLINE", "OFFLINE", "OFFLINE", "ONLINE", "OFFLINE"],
     "Difficulty": ["MEDIUM", "MEDIUM", "MEDIUM", "MEDIUM", "MEDIUM", "MEDIUM"],
